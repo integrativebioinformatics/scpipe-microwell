@@ -4,7 +4,7 @@ A modular Nextflow pipeline for single-cell (scRNA-seq) data analysis, structure
 
 ### 1. Pipeline structure
 
-The NanoVI pipeline follows a modular architecture implemented in **Nextflow**.
+The scMicropipe pipeline follows a modular architecture implemented in **Nextflow**.
 
 - The main script `main.nf` acts as an entry point and dispatches the execution based on the `--cmd` parameter.
 - Each subcommand (`DGE_matrix`, `Data_processing`, `Celltype_annotation`, `Integration`, `Functionality_analysis`, `Coexpression_modules` ) is implemented as an independent workflow in the `modules/` directory.
