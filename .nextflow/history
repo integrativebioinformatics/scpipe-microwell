@@ -1,0 +1,39 @@
+2025-07-17 23:23:40	-	sad_celsius	-	f7385316674a1d902712a07afca8d8eb	bad5c6f8-6abb-400a-8ddc-357c14326866	nextflow run main.nf --cmd dge_matrix
+2025-07-17 23:25:17	-	awesome_hopper	-	f7385316674a1d902712a07afca8d8eb	d27f21c4-f2d5-4e9a-b3ae-3c158a87d3f7	nextflow run main.nf --cmd dge_matrix
+2025-07-17 23:25:25	-	agitated_descartes	-	f7385316674a1d902712a07afca8d8eb	8a291266-b9b4-48ac-8e68-b449b785ac3e	nextflow run main.nf --cmd dge_matrix
+2025-07-17 23:28:46	-	thirsty_wilson	-	e94c826e8bd9c6062d842a8119130fcc	1d9fe98b-db7d-469d-9782-1110ef8f24f1	nextflow run main.nf --cmd dge_matrix
+2025-07-17 23:29:08	-	modest_morse	-	e94c826e8bd9c6062d842a8119130fcc	a0a7fcd8-33ef-48f5-9b33-9dce33a3dfdb	nextflow run main.nf --cmd dge_matrix
+2025-07-17 23:30:12	-	nauseous_raman	-	8dbf5e51df4c2ec4f835a1c6255be7e3	2c7fcaee-024a-4e4a-8194-8a24fb9fc21c	nextflow run main.nf --cmd dge_matrix
+2025-07-17 23:34:09	-	prickly_mcclintock	-	bdf884b3ea90a23e617a8cb78498ba65	02afc385-22c0-4644-8d48-064f08fe37c2	nextflow run main.nf --cmd dge_matrix
+2025-07-17 23:35:57	-	trusting_volhard	-	abd5be64839093012e306d1c46c283d3	751a1632-811f-4719-af85-5bdf72716de7	nextflow run main.nf --cmd dge_matrix
+2025-07-17 23:36:04	-	spontaneous_easley	-	abd5be64839093012e306d1c46c283d3	482ac763-cb9a-41ad-9d08-433ef56ec026	nextflow run main.nf --cmd DGE_MATRIX
+2025-07-17 23:41:08	-	sick_euclid	-	4defb83072dfbd1cf1fc62b0bb5f1735	c760cc3f-0054-4bda-9079-eaf9f0d02a0a	nextflow run main.nf --cmd DGE_MATRIX
+2025-07-17 23:45:49	-	cheeky_pasteur	-	7d1dc980d6956b03a464165930447e82	c3b75fa6-2212-42d8-896c-75b161cc2332	nextflow run main.nf --cmd dge_matrix
+2025-07-17 23:48:08	-	soggy_banach	-	383f204b5ed264dd2c0a711b6efb6c08	b420e686-2a1b-455d-838c-1130197893aa	nextflow run main.nf --cmd dge_matrix
+2025-07-17 23:49:14	-	suspicious_leakey	-	3cd67ee320cfdeeda69b4fcb2da60eb8	1f892466-ee56-45db-9a77-efc74e0fd316	nextflow run main.nf --cmd dge_matrix
+2025-07-18 00:00:09	865ms	nostalgic_heisenberg	ERR	a9701a9a4a412a0a192e893c032c1d2e	a729d88e-4e9d-49f5-af35-efa847a4bdc0	nextflow run main.nf --cmd dge_matrix
+2025-07-18 00:01:11	1.2s	romantic_knuth	ERR	8b6fcec21937e0ef73a853400b74a281	6bd0b043-f657-49d2-b457-c4210cfdca4b	nextflow run main.nf --cmd dge_matrix
+2025-07-18 00:02:00	1.3s	hungry_nightingale	ERR	8b6fcec21937e0ef73a853400b74a281	fac5e208-6533-47e6-a74b-ffc093f05dc5	nextflow run main.nf --cmd dge_matrix
+2025-07-18 00:02:34	867ms	infallible_caravaggio	ERR	8b6fcec21937e0ef73a853400b74a281	a85ff4f6-4db4-4912-8a19-9a5115d5dce6	nextflow run main.nf --cmd dge_matrix
+2025-07-18 00:03:40	1.2s	peaceful_fermi	ERR	8cdb613dfcba16d33ed95dd3da338220	663b16b5-281f-4012-b16d-cc8ac659b992	nextflow run main.nf --cmd dge_matrix
+2025-07-18 00:04:38	1.2s	sleepy_plateau	ERR	8b0f16b99f81bd75eef2d7af2ae2fb1a	08a5f7e2-f4ab-4151-9737-05325bcda6c3	nextflow run main.nf --cmd dge_matrix
+2025-07-18 00:07:39	1.3s	lethal_wegener	ERR	8b0f16b99f81bd75eef2d7af2ae2fb1a	533aa1e9-9b49-4bce-a1dd-ac32bd5d2505	nextflow run main.nf --cmd dge_matrix
+2025-07-18 00:12:47	1.6s	infallible_lumiere	ERR	8b0f16b99f81bd75eef2d7af2ae2fb1a	1acbf7a8-298d-4c9b-a6ff-875c81554ca5	nextflow run main.nf --cmd dge_matrix
+2025-07-18 00:15:45	11m 7s	peaceful_faggin	ERR	8b0f16b99f81bd75eef2d7af2ae2fb1a	bf67d960-0c7e-4b0d-8a69-0a27684fc139	nextflow run main.nf --cmd dge_matrix
+2025-07-18 13:42:39	11m 34s	backstabbing_cuvier	ERR	8b0f16b99f81bd75eef2d7af2ae2fb1a	61920b78-1a4b-44bf-ace4-9aa686234b2a	nextflow run main.nf --cmd dge_matrix
+2025-07-18 14:02:00	11m 10s	kickass_sanger	ERR	8b0f16b99f81bd75eef2d7af2ae2fb1a	bd7d8f7f-e6de-4c0c-98e7-c60c43ec6ae3	nextflow run main.nf --cmd dge_matrix
+2025-07-18 14:34:04	11m 5s	mad_ampere	ERR	8b0f16b99f81bd75eef2d7af2ae2fb1a	87f64eaf-557e-4473-9d3b-4e5aae4867ad	nextflow run main.nf --cmd dge_matrix
+2025-07-18 16:05:10	52m 40s	clever_swartz	ERR	8b0f16b99f81bd75eef2d7af2ae2fb1a	ebce622a-a6c9-49d9-9f98-c77894af0e1d	nextflow run main.nf --cmd dge_matrix
+2025-07-18 17:03:45	1.4s	lethal_feynman	OK	8b0f16b99f81bd75eef2d7af2ae2fb1a	ebce622a-a6c9-49d9-9f98-c77894af0e1d	nextflow run main.nf -resume
+2025-07-18 17:04:11	1h 7m 8s	jolly_archimedes	ERR	8b0f16b99f81bd75eef2d7af2ae2fb1a	ebce622a-a6c9-49d9-9f98-c77894af0e1d	nextflow run main.nf --cmd dge_matrix -resume
+2025-07-18 23:37:56	1h 19m 14s	sick_marconi	ERR	8b0f16b99f81bd75eef2d7af2ae2fb1a	ebce622a-a6c9-49d9-9f98-c77894af0e1d	nextflow run main.nf --cmd dge_matrix -resume
+2025-07-19 13:49:28	1.9s	hungry_celsius	ERR	5933f40dc219a12d73365709408df6cd	ebce622a-a6c9-49d9-9f98-c77894af0e1d	nextflow run main.nf --cmd dge_matrix -resume
+2025-07-19 13:52:11	1.4s	prickly_goldstine	ERR	c6107cfa2919866b131c1af7a4637f5e	ebce622a-a6c9-49d9-9f98-c77894af0e1d	nextflow run main.nf --cmd dge_matrix -resume
+2025-07-19 13:53:03	2.2s	voluminous_ampere	ERR	d1fb0b74298d51205bf3c09d8a31e16e	ebce622a-a6c9-49d9-9f98-c77894af0e1d	nextflow run main.nf --cmd dge_matrix -resume
+2025-07-19 13:54:48	1.7s	spontaneous_hilbert	ERR	1947fa4a1c11052a1c0d29b130c6bb85	ebce622a-a6c9-49d9-9f98-c77894af0e1d	nextflow run main.nf --cmd dge_matrix -resume
+2025-07-19 13:54:58	2.2s	tender_blackwell	ERR	1947fa4a1c11052a1c0d29b130c6bb85	ebce622a-a6c9-49d9-9f98-c77894af0e1d	nextflow run main.nf --cmd dge_matrix -resume
+2025-07-19 13:57:18	2.2s	friendly_caravaggio	ERR	de503d39b758d6056fbeeb33ae57f4cd	ebce622a-a6c9-49d9-9f98-c77894af0e1d	nextflow run main.nf --cmd dge_matrix -resume
+2025-07-19 13:58:12	2.5s	stoic_meninsky	ERR	0be39b77207fabac92279e976d37eee1	ebce622a-a6c9-49d9-9f98-c77894af0e1d	nextflow run main.nf --cmd dge_matrix -resume
+2025-07-19 14:02:06	1.7s	cranky_mandelbrot	ERR	8414f69617b50fcf00cf4d20a4dcf5ed	ebce622a-a6c9-49d9-9f98-c77894af0e1d	nextflow run main.nf --cmd dge_matrix -resume
+2025-07-19 14:07:40	805ms	berserk_lichterman	ERR	904dbd2897cacf7e56a7a400755081ac	ebce622a-a6c9-49d9-9f98-c77894af0e1d	nextflow run main.nf --cmd dge_matrix -resume
+2025-07-19 14:10:27	1h 18m 51s	high_volhard	ERR	360f8e57ebe10bb44a171a52685fa06c	ebce622a-a6c9-49d9-9f98-c77894af0e1d	nextflow run main.nf --cmd dge_matrix -resume
