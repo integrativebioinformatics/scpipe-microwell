@@ -22,24 +22,24 @@ This structure ensures that the pipeline is:
 Below is the current directory structure:
 
 ```
-├── main.nf # Main Nextflow script: dispatches to sub-workflow modules
+├── main.nf                         # Main Nextflow script: dispatches to sub-workflow modules
 ├── config/
-│ ├── containers.config # Docker/Singularity container configuration
-├── modules/ # Modular Nextflow workflows by subcommand
+│ ├── containers.config             # Docker/Singularity container configuration
+├── modules/                        # Modular Nextflow workflows by subcommand
 │ ├── DGE_matrix/
-│ │ └── main.nf # Generation of digital gene expression matrices
+│ │ └── main.nf                     # Generation of digital gene expression matrices
 │ ├── Data_processing/
-│ │ └── main.nf # scRNA-seq data filtering and processing
+│ │ └── main.nf                     # scRNA-seq data filtering and processing
 │ ├── Celltype_annotation/
-│ │ └── main.nf # Cell type annotation and classification
+│ │ └── main.nf                     # Cell type annotation and classification
 │ ├── Integration/
-│ │ └── main.nf # Dataset integration and batch effect correction
+│ │ └── main.nf                     # Dataset integration and batch effect correction
 │ ├── Functionality_analysis/
-│ │ └── main.nf # Functional analysis (e.g., GSEA, pathway analysis)
+│ │ └── main.nf                     # Functional analysis (e.g., GSEA, pathway analysis)
 │ └── Coexpression_modules/
-│ └── main.nf # Construction and analysis of coexpression modules
-├── bin/ # Helper scripts in Python/R
+│ └── main.nf                       # Construction and analysis of coexpression modules
+├── bin/                             
 ├── test/ 
 ├── README.md 
-└── nextflow.config # Global configuration and default parameters
+└── nextflow.config                 # Global configuration and default parameters
 ```
